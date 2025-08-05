@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/virendra-singh-rawat/Documents/tpch-query5/build",
+  "command": "/usr/bin/g++  -I/home/virendra-singh-rawat/Documents/tpch-query5/include -g -std=gnu++11 -o CMakeFiles/tpch_query5.dir/src/main.cpp.o -c /home/virendra-singh-rawat/Documents/tpch-query5/src/main.cpp",
+  "file": "/home/virendra-singh-rawat/Documents/tpch-query5/src/main.cpp",
+  "output": "CMakeFiles/tpch_query5.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/virendra-singh-rawat/Documents/tpch-query5/build",
+  "command": "/usr/bin/g++  -I/home/virendra-singh-rawat/Documents/tpch-query5/include -g -std=gnu++11 -o CMakeFiles/tpch_query5.dir/src/query5.cpp.o -c /home/virendra-singh-rawat/Documents/tpch-query5/src/query5.cpp",
+  "file": "/home/virendra-singh-rawat/Documents/tpch-query5/src/query5.cpp",
+  "output": "CMakeFiles/tpch_query5.dir/src/query5.cpp.o"
+}
+]
